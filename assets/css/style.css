@@ -213,6 +213,8 @@ h6 {
     height: 60px;
 }
 
+
+
 .header-inner-pages {
     background: rgba(5, 87, 158, 0.9) !important;
 }
@@ -510,7 +512,6 @@ h6 {
     top: 0;
     height: 100%;
     width: 100%;
-    z-index: 1;
 }
 
 #hero:before {
